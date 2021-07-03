@@ -1,0 +1,2 @@
+rootProject.name = "VuThiLanh_Android43_Day7"
+include ':app'
